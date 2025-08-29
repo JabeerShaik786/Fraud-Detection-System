@@ -1,0 +1,32 @@
+Fraud Detection Flow (fraud_ai)
+---------------------------------
+
+Trigger:
+- When an item is created in SharePoint list
+- Runs every 5 minutes
+
+Actions:
+1. Send an Email (V2)
+   - To: Email_ID from SharePoint item
+   - Subject: "Checking whether the message is Fraud or Not"
+   - Body: Warning email advising not to click links, download attachments, or share personal/financial info.
+
+2. Initialize Variable
+   - Name: description
+   - Type: string
+   - Value: Message_Description field from SharePoint
+
+3. Condition (If/Else)
+   - If "How_the_message/Value" = "SMS":
+       description = Message_Description
+     Else:
+       description = Message
+
+4. Run a Prompt (AI Builder)
+   - Input: description variable
+   - Purpose: Detect whether the message is Fraud / Not Fraud
+
+Expected Next Steps (based on common fraud detection flows):
+- Condition on AI Builder result:
+   * If Fraud: update SharePoint item (status=Fraudulent), notify admins, log case
+   * If Not Fraud: update SharePoint item (status=Safe), notify user
