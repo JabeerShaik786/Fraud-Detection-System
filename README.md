@@ -51,7 +51,6 @@ The system uses **rule-based detection**, including:
 - **Fraud by Location (Map)** – Geographic fraud patterns  
 - **Top 10 Email IDs** – Repeated suspicious senders  
 - **Top 10 Message Codes** – Common fraud indicators  
-
-
+<img width="1363" height="766" alt="FDS" src="https://github.com/user-attachments/assets/89818c76-4c5f-4ba3-9766-8114817b8beb" />
 
 
