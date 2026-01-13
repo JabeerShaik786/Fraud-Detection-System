@@ -52,8 +52,6 @@ The system uses **rule-based detection**, including:
 - **Top 10 Email IDs** – Repeated suspicious senders  
 - **Top 10 Message Codes** – Common fraud indicators  
 
-### Dashboard Preview
-```md
-<img width="1363" height="766" alt="Screenshot 2026-01-13 192040" src="https://github.com/user-attachments/assets/8fcb72e9-3079-481d-9479-55c40d2a6983" />
+
 
 
