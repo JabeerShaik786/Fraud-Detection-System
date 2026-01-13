@@ -54,5 +54,6 @@ The system uses **rule-based detection**, including:
 
 ### Dashboard Preview
 ```md
-<img width="1363" height="766" alt="Screenshot 2026-01-13 192040" src="https://github.com/user-attachments/assets/3f8786d0-57fc-43f7-8583-a94327564953" />
+<img width="1363" height="766" alt="Screenshot 2026-01-13 192040" src="https://github.com/user-attachments/assets/8fcb72e9-3079-481d-9479-55c40d2a6983" />
+
 
