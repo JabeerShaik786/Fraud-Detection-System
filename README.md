@@ -52,5 +52,17 @@ The system uses **rule-based detection**, including:
 - **Top 10 Email IDs** – Repeated suspicious senders  
 - **Top 10 Message Codes** – Common fraud indicators  
 <img width="1363" height="766" alt="FDS" src="https://github.com/user-attachments/assets/89818c76-4c5f-4ba3-9766-8114817b8beb" />
+<img width="1531" height="1275" alt="image" src="https://github.com/user-attachments/assets/fbf3c944-1482-4b48-84ae-c9a704c0ee86" />
+<img width="1595" height="1170" alt="image" src="https://github.com/user-attachments/assets/e008b318-c681-49fb-afb1-5958673a3a5f" />
+<img width="2142" height="631" alt="image" src="https://github.com/user-attachments/assets/580d27ed-edb8-488a-a168-cdd95164a106" />
+<img width="1153" height="653" alt="image" src="https://github.com/user-attachments/assets/62e0a9b0-9b97-4ced-a5cf-f7e8b83a244f" />
+<img width="2550" height="1254" alt="image" src="https://github.com/user-attachments/assets/e1ad2f02-3cd9-44ed-86d1-04295ecf3f17" />
+
+
+
+
+
+<img width="1488" height="1382" alt="image" src="https://github.com/user-attachments/assets/fdfc323b-24d8-48be-a02b-940c7e372444" />
+
 
 
